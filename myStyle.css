@@ -1,0 +1,24 @@
+body  {
+    background-image: url("bg.jpg");
+    background-color: #cccccc;
+
+}
+.btn{
+  margin: 1em 0em 0em .5em;
+}
+.text-center {
+  text-align: center;
+}
+
+*{
+  font-family: 'Open Sans', sans-serif;
+
+}
+pre{
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  font-size: 1em;
+  margin: 1em;
+}
